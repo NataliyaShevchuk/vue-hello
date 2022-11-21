@@ -5,7 +5,7 @@ createApp({
     data (){ 
     return{
         messaggio: "Ciao! Scegli una destinazione!",
-        fotoHawaii: "img/hawaii.jpg",
+        fotoVietnam: "img/vientam.jpg",
         fotoBali: "img/bali.jpg",
         fotoNepal: "img/nepal.jpg",
         fotoGiappone: "img/giappone.jpg",
